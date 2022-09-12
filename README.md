@@ -17,6 +17,7 @@ Effective Java 공부 학습 표
 |2022/09/06|아이템 8. finalizer와 cleaner 사용을 피하라|https://ajdahrdl.tistory.com/295|
 |2022/09/07|아이템 9. try-finally보다는 try-with-resources를 사용하라 |https://ajdahrdl.tistory.com/296| 
 |2022/09/11|아이템 10. equals는 일반 규약을 지켜 재정의하라 |https://ajdahrdl.tistory.com/297| 
+|2022/09/12|아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 |https://ajdahrdl.tistory.com/299| 
   <div>
 </details>
 
