@@ -19,6 +19,7 @@ Effective Java 공부 학습 표
 |2022/09/11|아이템 10. equals는 일반 규약을 지켜 재정의하라 |https://ajdahrdl.tistory.com/297| 
 |2022/09/12|아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 |https://ajdahrdl.tistory.com/299| 
 |2022/09/13|아이템 12. toString을 항상 재정의하라 |https://ajdahrdl.tistory.com/300| 
+|2022/09/14|아이템 13. clone 재정의는 주의해서 진행하라 |https://ajdahrdl.tistory.com/301| 
   <div>
 </details>
 
