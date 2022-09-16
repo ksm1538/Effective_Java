@@ -21,6 +21,7 @@ Effective Java 공부 학습 표
 |2022/09/13|아이템 12. toString을 항상 재정의하라 |https://ajdahrdl.tistory.com/300| 
 |2022/09/14|아이템 13. clone 재정의는 주의해서 진행하라 |https://ajdahrdl.tistory.com/301| 
 |2022/09/15|아이템 14. Comparable을 구현할지 고려하라 |https://ajdahrdl.tistory.com/302| 
+|2022/09/16|아이템 15. 클래스와 멤버의 접근 권한을 최소화하라 |https://ajdahrdl.tistory.com/303|
   <div>
 </details>
 
