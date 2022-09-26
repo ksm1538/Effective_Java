@@ -25,6 +25,7 @@ Effective Java 공부 학습 표
 |2022/09/19|아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 |https://ajdahrdl.tistory.com/304|
 |2022/09/20|아이템 17. 변경 가능성을 최소화하라 |https://ajdahrdl.tistory.com/307|
 |2022/09/22|아이템 18. 상속보다는 컴포지션을 사용하라 |https://ajdahrdl.tistory.com/308|
+|2022/09/26|아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라 |https://ajdahrdl.tistory.com/310|
   <div>
 </details>
 
