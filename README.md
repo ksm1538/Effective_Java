@@ -33,3 +33,12 @@ Effective Java 공부 학습 표
   <div>
 </details>
 
+<details>
+  <summary><b>2022/10</b></summary>
+  <div markdown="1">
+
+|날짜|내용|링크
+|------|------------------------------|---------------|
+|2022/10/04|아이템 24.  멤버 클래스는 되도록 static으로 만들라 |https://ajdahrdl.tistory.com/319|
+  <div>
+</details>
