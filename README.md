@@ -39,6 +39,7 @@ Effective Java 공부 학습 표
 
 |날짜|내용|링크
 |------|------------------------------|---------------|
-|2022/10/04|아이템 24.  멤버 클래스는 되도록 static으로 만들라 |https://ajdahrdl.tistory.com/319|
+|2022/10/04|아이템 24. 멤버 클래스는 되도록 static으로 만들라 |https://ajdahrdl.tistory.com/319|
+|2022/10/05|아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라 |https://ajdahrdl.tistory.com/320|
   <div>
 </details>
