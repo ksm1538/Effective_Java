@@ -43,6 +43,7 @@ Effective Java 공부 학습 표
 |2022/10/05|아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라 |https://ajdahrdl.tistory.com/320|
 |2022/10/06|아이템 26. 로 타입은 사용하지 말라 |https://ajdahrdl.tistory.com/321|
 |2022/10/07|아이템 27. 비검사 경고를 제거하라 |https://ajdahrdl.tistory.com/322|
-|2022/10/11|Effective Java : 아이템 28. 배열보다는 리스트를 사용하라 |https://ajdahrdl.tistory.com/326|
+|2022/10/11|아이템 28. 배열보다는 리스트를 사용하라 |https://ajdahrdl.tistory.com/326|
+|2022/10/12|아이템 29. 이왕이면 제네릭 타입으로 만들라 |https://ajdahrdl.tistory.com/327|
   <div>
 </details>
