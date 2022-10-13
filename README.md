@@ -45,5 +45,6 @@ Effective Java 공부 학습 표
 |2022/10/07|아이템 27. 비검사 경고를 제거하라 |https://ajdahrdl.tistory.com/322|
 |2022/10/11|아이템 28. 배열보다는 리스트를 사용하라 |https://ajdahrdl.tistory.com/326|
 |2022/10/12|아이템 29. 이왕이면 제네릭 타입으로 만들라 |https://ajdahrdl.tistory.com/327|
+|2022/10/13|아이템 30. 이왕이면 제네릭 메서드로 만들라 |https://ajdahrdl.tistory.com/328|
   <div>
 </details>
