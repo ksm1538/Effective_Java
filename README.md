@@ -48,5 +48,6 @@ Effective Java 공부 학습 표
 |2022/10/13|아이템 30. 이왕이면 제네릭 메서드로 만들라 |https://ajdahrdl.tistory.com/328|
 |2022/10/17|아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높여라 |https://ajdahrdl.tistory.com/332|
 |2022/10/18|아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 |https://ajdahrdl.tistory.com/333|
+|2022/10/19|아이템 33. 타입 안전 이종 컨테이너를 고려하라 |https://ajdahrdl.tistory.com/334|
   <div>
 </details>
