@@ -58,3 +58,13 @@ Effective Java 공부 학습 표
 |2022/10/31|아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라|https://ajdahrdl.tistory.com/346|
   <div>
 </details>
+
+<details>
+  <summary><b>2022/11</b></summary>
+  <div markdown="1">
+
+|날짜|내용|링크
+|------|------------------------------|---------------|
+|2022/11/01|아이템 42. 익명 클래스보다는 람다를 사용하라|https://ajdahrdl.tistory.com/348|
+  <div>
+</details>
