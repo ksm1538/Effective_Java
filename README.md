@@ -67,5 +67,6 @@ Effective Java 공부 학습 표
 |------|------------------------------|---------------|
 |2022/11/01|아이템 42. 익명 클래스보다는 람다를 사용하라|https://ajdahrdl.tistory.com/348|
 |2022/11/02|아이템 43. 람다보다는 메서드 참조를 사용하라|https://ajdahrdl.tistory.com/349|
+|2022/11/03|아이템 44. 표준 함수형 인터페이스를 사용하라|https://ajdahrdl.tistory.com/350|
   <div>
 </details>
