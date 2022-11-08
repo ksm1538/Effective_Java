@@ -70,5 +70,6 @@ Effective Java 공부 학습 표
 |2022/11/03|아이템 44. 표준 함수형 인터페이스를 사용하라|https://ajdahrdl.tistory.com/350|
 |2022/11/04|아이템 45. 스트림은 주의해서 사용하라|https://ajdahrdl.tistory.com/351|
 |2022/11/07|아이템 46. 스트림에서는 부작용 없는 함수를 사용하라|https://ajdahrdl.tistory.com/353|
+|2022/11/08|아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다.|https://ajdahrdl.tistory.com/354|
   <div>
 </details>
