@@ -73,5 +73,6 @@ Effective Java 공부 학습 표
 |2022/11/08|아이템 47. 반환 타입으로는 스트림보다 컬렉션이 낫다.|https://ajdahrdl.tistory.com/354|
 |2022/11/09|아이템 48. 스트림 병렬화는 주의해서 적용하라|https://ajdahrdl.tistory.com/355|
 |2022/11/10|아이템 49. 매개변수가 유효한지 검사하라|https://ajdahrdl.tistory.com/356|
+|2022/11/11|아이템 50. 적시에 방어적 복사본을 만들라|https://ajdahrdl.tistory.com/357|
   <div>
 </details>
