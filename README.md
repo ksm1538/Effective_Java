@@ -77,5 +77,6 @@ Effective Java 공부 학습 표
 |2022/11/14|아이템 51. 메서드 시그니처를 신중히 설계하라|https://ajdahrdl.tistory.com/360|
 |2022/11/15|아이템 52. 다중정의는 신중히 사용하라|https://ajdahrdl.tistory.com/361|
 |2022/11/16|아이템 53. 가변인수는 신중히 사용하라|https://ajdahrdl.tistory.com/362|
+|2022/11/17|아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라|https://ajdahrdl.tistory.com/363|
   <div>
 </details>
