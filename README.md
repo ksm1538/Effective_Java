@@ -82,5 +82,6 @@ Effective Java 공부 학습 표
 |2022/11/21|아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라|https://ajdahrdl.tistory.com/367|
 |2022/11/22|아이템 57. 지역변수의 범위를 최소화하라|https://ajdahrdl.tistory.com/368|
 |2022/11/23|아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라|https://ajdahrdl.tistory.com/369|
+|2022/11/24|아이템 59. 라이브러리를 익히고 사용하라|https://ajdahrdl.tistory.com/370|
   <div>
 </details>
