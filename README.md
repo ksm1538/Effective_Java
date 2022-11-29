@@ -85,5 +85,6 @@ Effective Java 공부 학습 표
 |2022/11/24|아이템 59. 라이브러리를 익히고 사용하라|https://ajdahrdl.tistory.com/370|
 |2022/11/25|아이템 60. 정확한 답이 필요하다면 float와 double은 피하라|https://ajdahrdl.tistory.com/371|
 |2022/11/28|아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라|https://ajdahrdl.tistory.com/374|
+|2022/11/29|아이템 62. 다른 타입이 적절하다면 문자열 사용을 피하라|https://ajdahrdl.tistory.com/375|
   <div>
 </details>
