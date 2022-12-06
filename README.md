@@ -99,5 +99,6 @@ Effective Java 공부 학습 표
 |2022/12/01|아이템 65. 리플렉션보다는 인터페이스를 사용하라|https://ajdahrdl.tistory.com/378|
 |2022/12/02|아이템 66. 네이티브 메서드는 신중히 사용하라|https://ajdahrdl.tistory.com/379|
 |2022/12/05|아이템 67. 최적화는 신중히 하라|https://ajdahrdl.tistory.com/382|
+|2022/12/06|아이템 68. 일반적으로 통용되는 명명 규칙을 따르라|https://ajdahrdl.tistory.com/383|
   <div>
 </details>
