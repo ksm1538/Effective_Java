@@ -100,5 +100,6 @@ Effective Java 공부 학습 표
 |2022/12/02|아이템 66. 네이티브 메서드는 신중히 사용하라|https://ajdahrdl.tistory.com/379|
 |2022/12/05|아이템 67. 최적화는 신중히 하라|https://ajdahrdl.tistory.com/382|
 |2022/12/06|아이템 68. 일반적으로 통용되는 명명 규칙을 따르라|https://ajdahrdl.tistory.com/383|
+|2022/12/07|아이템 69. 예외는 진짜 예외 상황에만 사용하라|https://ajdahrdl.tistory.com/384|
   <div>
 </details>
