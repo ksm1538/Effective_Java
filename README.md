@@ -103,5 +103,6 @@ Effective Java 공부 학습 표
 |2022/12/07|아이템 69. 예외는 진짜 예외 상황에만 사용하라|https://ajdahrdl.tistory.com/384|
 |2022/12/08|아이템 70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라|https://ajdahrdl.tistory.com/385|
 |2022/12/12|아이템 71. 필요 없는 검사 예외 사용은 피하라|https://ajdahrdl.tistory.com/389|
+|2022/12/13|아이템 72. 표준 예외를 사용하라|https://ajdahrdl.tistory.com/390|
   <div>
 </details>
