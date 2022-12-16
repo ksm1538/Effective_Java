@@ -105,5 +105,7 @@ Effective Java 공부 학습 표
 |2022/12/12|아이템 71. 필요 없는 검사 예외 사용은 피하라|https://ajdahrdl.tistory.com/389|
 |2022/12/13|아이템 72. 표준 예외를 사용하라|https://ajdahrdl.tistory.com/390|
 |2022/12/14|아이템 73. 추상화 수준에 맞는 예외를 던지라<br/>아이템 74. 메서드가 던지는 모든 예외를 문서화하라|https://ajdahrdl.tistory.com/391<br/>https://ajdahrdl.tistory.com/392|
+|2022/12/15|아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라.|https://ajdahrdl.tistory.com/393|
+|2022/12/16|아이템 76. 가능한 한 실패 원자적으로 만들라<br/>아이템 77. 예외를 무시하지 말라|https://ajdahrdl.tistory.com/394<br/>https://ajdahrdl.tistory.com/395|
   <div>
 </details>
