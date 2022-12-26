@@ -112,5 +112,6 @@ Effective Java 공부 학습 표
 |2022/12/21|아이템 80. 스레드보다는 실행자, 태스크, 스트림을 이용하라|https://ajdahrdl.tistory.com/399|
 |2022/12/22|아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라|https://ajdahrdl.tistory.com/400|
 |2022/12/23|아이템 82. 스레드 안정성 수준을 문서화하라|https://ajdahrdl.tistory.com/401|
+|2022/12/26|아이템 83. 지연 초기화는 신중히 사용하라|https://ajdahrdl.tistory.com/403|
   <div>
 </details>
