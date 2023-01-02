@@ -115,6 +115,7 @@ Effective Java 공부 학습 표
 |2022/12/26|아이템 83. 지연 초기화는 신중히 사용하라|https://ajdahrdl.tistory.com/403|
 |2022/12/27|아이템 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라|https://ajdahrdl.tistory.com/404|
 |2022/12/28|아이템 85. 자바 직렬화의 대안을 찾으라|https://ajdahrdl.tistory.com/405|
+|2022/12/30|아이템 86. Serializable을 구현할지는 신중히 결정하라|https://ajdahrdl.tistory.com/408|
   <div>
 </details>
 
