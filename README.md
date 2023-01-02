@@ -117,3 +117,13 @@ Effective Java 공부 학습 표
 |2022/12/28|아이템 85. 자바 직렬화의 대안을 찾으라|https://ajdahrdl.tistory.com/405|
   <div>
 </details>
+
+<details>
+  <summary><b>2023/01</b></summary>
+  <div markdown="1">
+
+|날짜|내용|비고
+|------|------------------------------|---------------|
+|2023/01/02|아이템 87. 커스텀 직렬화 형태를 고려해보라|https://ajdahrdl.tistory.com/411|
+  <div>
+</details>
