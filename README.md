@@ -126,5 +126,6 @@ Effective Java 공부 학습 표
 |날짜|내용|비고
 |------|------------------------------|---------------|
 |2023/01/02|아이템 87. 커스텀 직렬화 형태를 고려해보라|https://ajdahrdl.tistory.com/411|
+|2023/01/03|아이템 88. readObject 메서드는 방어적으로 작성하라|https://ajdahrdl.tistory.com/412|
   <div>
 </details>
